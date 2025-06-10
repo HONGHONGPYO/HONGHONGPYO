@@ -76,13 +76,15 @@
 
 > 실시간 교통 데이터를 통합하여 시각화하고, 사용자에게 위치 기반 추천 및 경로 안내 기능을 제공하는 웹 플랫폼입니다.
 
-- 🚇 실시간 지하철 위치, 교통 정책 뉴스, 공공 자전거 대여소 데이터 통합
-- 📍 Naver 지도 API를 활용한 위치 기반 시각화 및 길찾기 기능
-- 🔄 Flask 백엔드 기반 뉴스 크롤링 자동화
-- 📊 Pandas & Chart.js 기반의 데이터 통계 시각화
-- 🧰 사용 기술: Python (Flask), JavaScript, BeautifulSoup, MySQL, Bootstrap
+- 🚇 실시간 지하철 위치, 교통 정책 뉴스, 공공 자전거 대여소 등 다양한 교통 데이터 통합
+- 📍 Naver 지도 API 기반 위치 시각화 및 길찾기 기능
+- 🔄 Flask 기반 뉴스 크롤링 자동화
+- 📊 Pandas & Chart.js 기반 데이터 통계 시각화
 
-🔗 **[👉 프로젝트 보러가기](https://github.com/Hoooouuuuu/trafficRoad)**
+**🔗 관련 링크**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Hoooouuuuu/trafficRoad)
+[![Notion](https://img.shields.io/badge/Notion-문서-000?logo=notion)](https://your-notion-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-시연영상-ff0000?logo=youtube)](https://your-youtube-demo-link.com)
 
 ---
 
