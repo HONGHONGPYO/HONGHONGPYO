@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm HONG JUNG PYO</h1>
 
 <p align="center">
-  I'm a backend-focused developer passionate about building reliable and data-driven web services. <br>
-  Skilled in designing full-stack applications using Java (Spring Boot) and Python (Flask), <br>
-  with experience integrating real-time APIs, maps, and traffic data.
+  🚀 실시간 교통 정보와 위치 기반 서비스를 개발하는 백엔드 중심의 웹 개발자 <br>
+  💻 Java(Spring Boot)와 Python(Flask)을 활용한 데이터 기반 시스템 설계에 관심이 많습니다
 </p>
 
+---
 
 ## 💬 About Me
 
@@ -13,7 +13,9 @@
 - 🚇 실시간 교통·지하철 정보를 활용한 데이터 기반 시스템에 관심이 많습니다.
 - 🛠 Spring Boot와 Flask 기반 백엔드 개발 경험이 있으며, 실제 프로젝트에 적용해 보았습니다.
 - 🔍 웹 크롤링을 통해 공공데이터를 수집·자동화하고, 데이터 시각화까지 구현했습니다.
+- 💡 실생활에 도움이 되는 서비스를 개발하는 것이 저의 목표입니다.
 
+---
 
 ## 🛠 Tech Stack
 
@@ -55,32 +57,32 @@
 - Apache Tomcat
 - Git & GitHub
 
+---
 
+## 🚀 주요 프로젝트
 
+### 🧭 교통 정보 통합 플랫폼
+> 실시간 교통 데이터를 통합하여 시각화하고, 사용자에게 위치 기반 추천 및 경로 안내 기능을 제공하는 웹 플랫폼입니다.
 
+- 🚇 실시간 지하철 위치 정보, 교통 정책 뉴스, 공공 자전거 대여소 등 다양한 교통 데이터를 통합
+- 📍 Naver 지도 API를 활용한 위치 기반 시각화 및 길찾기 기능 구현
+- 🔄 Flask 백엔드 기반으로 뉴스 크롤링 자동화 및 정제된 데이터 제공
+- 📊 Pandas & Chart.js 기반의 데이터 통계 시각화 기능 탑재
+- 🧰 사용 기술: Python (Flask), JavaScript, Naver Maps API, BeautifulSoup, MySQL, Bootstrap
+- 🔗 **[프로젝트 보기](https://github.com/Hoooouuuuu/trafficRoad)** 
 
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
+---
 
+## 📫 Contact
 
-
-
-
-
-
-
-<!--
-**HONGHONGPYO/HONGHONGPYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: wjdvy9315@gmail.com
+- 📝 Blog: *준비 중...*
