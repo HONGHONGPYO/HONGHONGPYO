@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm HONG JUNG PYO</h1>
+
+<p align="center">
+  I'm a backend-focused developer passionate about building reliable and data-driven web services. <br>
+  Skilled in designing full-stack applications using Java (Spring Boot) and Python (Flask), <br>
+  with experience integrating real-time APIs, maps, and traffic data.
+</p>
 
 <!--
 **HONGHONGPYO/HONGHONGPYO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
