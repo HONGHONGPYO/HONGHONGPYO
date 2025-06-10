@@ -51,19 +51,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
 ## 🐍 GitHub Contribution Graph Snake
 
-![snake gif](https://github.com/Hoooouuuuu/Hoooouuuuu/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contact
 
 - 📧 Email: wjdvy9315@gmail.com
-- 📝 Blog: *준비 중...*
