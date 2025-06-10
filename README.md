@@ -1,4 +1,4 @@
-<!-- 헤더 배너 -->
+<!-- 💫 헤더 배너 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
@@ -26,14 +26,46 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-17-blue?logo=java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot"/>
+  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Flask-Web-yellow?logo=flask"/>
+  <img src="https://img.shields.io/badge/REST%20API-Designed-informational"/>
+  <img src="https://img.shields.io/badge/OAuth-Integrated-orange"/>
+  <img src="https://img.shields.io/badge/Gmail-SMTP-red?logo=gmail"/>
+</p>
+
+### 🌐 Frontend & Visualization
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Used-orange?logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-Used-blue?logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript"/>
+  <img src="https://img.shields.io/badge/Naver%20Maps-API-green?logo=naver"/>
+  <img src="https://img.shields.io/badge/Kakao%20Map-API-yellow?logo=kakaotalk"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Chart-blue?logo=python"/>
+  <img src="https://img.shields.io/badge/Plotly-Graph-purple"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql"/>
+  <img src="https://img.shields.io/badge/JDBC-Connector-orange"/>
+  <img src="https://img.shields.io/badge/PyMySQL-Driver-blue"/>
+</p>
+
+### 🔗 외부 API 연동
+<p>
+  <img src="https://img.shields.io/badge/Seoul%20Bus-API-blue"/>
+  <img src="https://img.shields.io/badge/Seoul%20Subway-API-yellow"/>
+  <img src="https://img.shields.io/badge/Dareungi%20Bike-API-lightgreen"/>
+  <img src="https://img.shields.io/badge/Parking-API-teal"/>
+  <img src="https://img.shields.io/badge/ITS-API-pink"/>
+  <img src="https://img.shields.io/badge/Naver%20Maps-API-green?logo=naver"/>
+  <img src="https://img.shields.io/badge/Kakao%20Maps-API-yellow?logo=kakaotalk"/>
+  <img src="https://img.shields.io/badge/KMA%20Weather-API-blue"/>
+  <img src="https://img.shields.io/badge/RSS%20News-Parser-orange"/>
 </p>
 
 ---
@@ -72,6 +104,13 @@
 ## 🐍 GitHub Contribution Graph Snake
 
 ![snake gif](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎬 프로젝트 소개 & 시연 영상
+
+[![Notion](https://img.shields.io/badge/Notion-Project-black?logo=notion)](https://your-notion-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://your-youtube-demo-link.com)
 
 ---
 
