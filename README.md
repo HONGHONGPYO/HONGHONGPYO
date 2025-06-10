@@ -7,6 +7,23 @@
 
 ---
 
+## 🏷️ 기술 스택 (Shields.io 뱃지)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-blue?logo=java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-3-green?logo=springboot"/>
+  <img src="https://img.shields.io/badge/Python-Flask-yellow?logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-orange?logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML5-CSS3-critical?logo=html5"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0.28-blue?logo=mysql"/>
+  <img src="https://img.shields.io/badge/Oracle_DB-used-informational?logo=oracle"/>
+  <img src="https://img.shields.io/badge/Naver_API-integrated-lightgrey?logo=naver"/>
+  <img src="https://img.shields.io/badge/Kakao_API-used-success?logo=kakaotalk"/>
+  <img src="https://img.shields.io/badge/Google_Maps-API-important?logo=googlemaps"/>
+</p>
+
+---
+
 ## 💬 About Me
 
 - 🎓 현재 소프트웨어 개발을 공부하며 실용적인 웹 서비스를 구현하고 있습니다.
@@ -14,48 +31,6 @@
 - 🛠 Spring Boot와 Flask 기반 백엔드 개발 경험이 있으며, 실제 프로젝트에 적용해 보았습니다.
 - 🔍 웹 크롤링을 통해 공공데이터를 수집·자동화하고, 데이터 시각화까지 구현했습니다.
 - 💡 실생활에 도움이 되는 서비스를 개발하는 것이 저의 목표입니다.
-
----
-
-## 🛠 Tech Stack
-
-### 💻 사용 언어
-- Java 17
-- JavaScript (ES6)
-- HTML5, CSS3
-- Python (Flask + venv)
-
-### 🔙 백엔드 프레임워크
-- Spring Boot 3
-- Spring Data JPA
-- Flask
-- Lombok
-
-### 🎨 프론트엔드 & 템플릿
-- Thymeleaf
-- Bootstrap
-
-### 🧪 개발 환경
-- Eclipse IDE
-- VS Code
-- Gradle
-- `.env` 환경변수 설정
-- Python 가상환경 (venv)
-
-### 🗄️ 데이터베이스
-- MySQL 8.0.28
-- Oracle DB
-
-### 🌐 외부 API 연동
-- Naver Open API
-- Kakao API
-- Google Maps API
-- 서울 열린데이터광장 (TOPIS 등)
-- ITS Korea 교통 정보 API
-
-### 🔧 기타
-- Apache Tomcat
-- Git & GitHub
 
 ---
 
@@ -76,9 +51,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoooouuuuu&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoooouuuuu&layout=compact&theme=radical" height="150"/>
 </p>
+
+---
+
+## 🐍 GitHub Contribution Graph Snake
+
+![snake gif](https://github.com/Hoooouuuuu/Hoooouuuuu/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
