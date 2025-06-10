@@ -1,32 +1,13 @@
-<h1 align="center">👋 Hi, I'm HONG JUNG PYO</h1>
-
+<!-- 헤더 배너 -->
 <p align="center">
-  🚀 실시간 교통 정보와 위치 기반 서비스를 개발하는 백엔드 중심의 웹 개발자 <br>
-  💻 Java(Spring Boot)와 Python(Flask)을 활용한 데이터 기반 시스템 설계에 관심이 많습니다
-</p>
-
----
-
-## 🏷️ 기술 스택 (Shields.io 뱃지)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?logo=java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-3-green?logo=springboot"/>
-  <img src="https://img.shields.io/badge/Python-Flask-yellow?logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-orange?logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML5-CSS3-critical?logo=html5"/>
-  <img src="https://img.shields.io/badge/MySQL-8.0.28-blue?logo=mysql"/>
-  <img src="https://img.shields.io/badge/Oracle_DB-used-informational?logo=oracle"/>
-  <img src="https://img.shields.io/badge/Naver_API-integrated-lightgrey?logo=naver"/>
-  <img src="https://img.shields.io/badge/Kakao_API-used-success?logo=kakaotalk"/>
-  <img src="https://img.shields.io/badge/Google_Maps-API-important?logo=googlemaps"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hi,%20I'm%20HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
 ---
 
 ## 💬 About Me
 
-- 🎓 현재 소프트웨어 개발을 공부하며 실용적인 웹 서비스를 구현하고 있습니다.
+- 🎓 소프트웨어 개발을 공부하며 실용적인 웹 서비스를 구현하고 있습니다.
 - 🚇 실시간 교통·지하철 정보를 활용한 데이터 기반 시스템에 관심이 많습니다.
 - 🛠 Spring Boot와 Flask 기반 백엔드 개발 경험이 있으며, 실제 프로젝트에 적용해 보았습니다.
 - 🔍 웹 크롤링을 통해 공공데이터를 수집·자동화하고, 데이터 시각화까지 구현했습니다.
@@ -34,17 +15,42 @@
 
 ---
 
-## 🚀 주요 프로젝트
+## 🧠 Focus & Goals
+
+- 📡 위치 기반 교통 서비스 고도화
+- 📊 데이터 시각화 및 자동화된 크롤링 시스템
+- ☁️ Flask + Spring Boot 멀티 백엔드 구조 실험
+- 💪 실전 프로젝트를 통해 실무 역량 업그레이드
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+---
+
+## 🏆 주요 프로젝트
 
 ### 🧭 교통 정보 통합 플랫폼
+
 > 실시간 교통 데이터를 통합하여 시각화하고, 사용자에게 위치 기반 추천 및 경로 안내 기능을 제공하는 웹 플랫폼입니다.
 
-- 🚇 실시간 지하철 위치 정보, 교통 정책 뉴스, 공공 자전거 대여소 등 다양한 교통 데이터를 통합
-- 📍 Naver 지도 API를 활용한 위치 기반 시각화 및 길찾기 기능 구현
-- 🔄 Flask 백엔드 기반으로 뉴스 크롤링 자동화 및 정제된 데이터 제공
-- 📊 Pandas & Chart.js 기반의 데이터 통계 시각화 기능 탑재
-- 🧰 사용 기술: Python (Flask), JavaScript, Naver Maps API, BeautifulSoup, MySQL, Bootstrap
-- 🔗 **[프로젝트 보기](https://github.com/Hoooouuuuu/trafficRoad)** 
+- 🚇 실시간 지하철 위치, 교통 정책 뉴스, 공공 자전거 대여소 데이터 통합
+- 📍 Naver 지도 API를 활용한 위치 기반 시각화 및 길찾기 기능
+- 🔄 Flask 백엔드 기반 뉴스 크롤링 자동화
+- 📊 Pandas & Chart.js 기반의 데이터 통계 시각화
+- 🧰 사용 기술: Python (Flask), JavaScript, BeautifulSoup, MySQL, Bootstrap
+
+🔗 **[👉 프로젝트 보러가기](https://github.com/Hoooouuuuu/trafficRoad)**
 
 ---
 
@@ -57,6 +63,12 @@
 
 ---
 
+## 📈 GitHub 활동 그래프
+
+[![HONGHONGPYO's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🐍 GitHub Contribution Graph Snake
 
 ![snake gif](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
@@ -65,4 +77,15 @@
 
 ## 📫 Contact
 
-- 📧 Email: wjdvy9315@gmail.com
+- 📧 Email: [wjdvy9315@gmail.com](mailto:wjdvy9315@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HONGHONGPYO&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  방문해 주셔서 감사합니다 🙇‍♂️  
+  더 좋은 서비스를 만들기 위해 매일 공부하고 있습니다!
+</p>
