@@ -3,19 +3,23 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
 </p>
 
+<p align="center">
+  🧑‍💻 Backend Dev | 🚇 실시간 교통 정보 시스템 개발자 | 📊 데이터 시각화 Enthusiast
+</p>
+
 ---
 
 ## 💬 About Me
 
 - 🎓 소프트웨어 개발을 공부하며 실용적인 웹 서비스를 구현하고 있습니다.
-- 🚇 실시간 교통·지하철 정보를 활용한 데이터 기반 시스템에 관심이 많습니다.
+- 🚦 실시간 교통·지하철 정보를 활용한 데이터 기반 시스템에 관심이 많습니다.
 - 🛠 Spring Boot와 Flask 기반 백엔드 개발 경험이 있으며, 실제 프로젝트에 적용해 보았습니다.
-- 🔍 웹 크롤링을 통해 공공데이터를 수집·자동화하고, 데이터 시각화까지 구현했습니다.
+- 🔍 웹 크롤링을 통해 공공데이터를 수집·자동화하고, 시각화까지 구현했습니다.
 - 💡 실생활에 도움이 되는 서비스를 개발하는 것이 저의 목표입니다.
 
 ---
 
-## 🧠 Focus & Goals
+## 🎯 Focus & Goals
 
 - 📡 위치 기반 교통 서비스 고도화
 - 📊 데이터 시각화 및 자동화된 크롤링 시스템
@@ -24,53 +28,50 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
 ### 🖥️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-17-blue?logo=java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-3-green?logo=springboot"/>
-  <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/Flask-Web-yellow?logo=flask"/>
-  <img src="https://img.shields.io/badge/REST%20API-Designed-informational"/>
+  <img src="https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Web-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-Designed-informational"/>
   <img src="https://img.shields.io/badge/OAuth-Integrated-orange"/>
-  <img src="https://img.shields.io/badge/Gmail-SMTP-red?logo=gmail"/>
 </p>
 
 ### 🌐 Frontend & Visualization
 <p>
-  <img src="https://img.shields.io/badge/HTML5-Used-orange?logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-Used-blue?logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript"/>
-  <img src="https://img.shields.io/badge/Naver%20Maps-API-green?logo=naver"/>
-  <img src="https://img.shields.io/badge/Kakao%20Map-API-yellow?logo=kakaotalk"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Chart-blue?logo=python"/>
-  <img src="https://img.shields.io/badge/Plotly-Graph-purple"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Naver_Maps-API-03C75A?style=flat&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kakao_Map-API-FFCD00?style=flat&logo=kakaotalk&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Chart-11557C?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-Graph-3F4F75?style=flat"/>
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql"/>
-  <img src="https://img.shields.io/badge/JDBC-Connector-orange"/>
-  <img src="https://img.shields.io/badge/PyMySQL-Driver-blue"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-Connector-F89820?style=flat"/>
+  <img src="https://img.shields.io/badge/PyMySQL-Driver-3776AB?style=flat"/>
 </p>
 
-### 🔗 외부 API 연동
+### 🔗 Public Data & API Integration
 <p>
-  <img src="https://img.shields.io/badge/Seoul%20Bus-API-blue"/>
-  <img src="https://img.shields.io/badge/Seoul%20Subway-API-yellow"/>
-  <img src="https://img.shields.io/badge/Dareungi%20Bike-API-lightgreen"/>
-  <img src="https://img.shields.io/badge/Parking-API-teal"/>
-  <img src="https://img.shields.io/badge/ITS-API-pink"/>
-  <img src="https://img.shields.io/badge/Naver%20Maps-API-green?logo=naver"/>
-  <img src="https://img.shields.io/badge/Kakao%20Maps-API-yellow?logo=kakaotalk"/>
-  <img src="https://img.shields.io/badge/KMA%20Weather-API-blue"/>
-  <img src="https://img.shields.io/badge/RSS%20News-Parser-orange"/>
+  <img src="https://img.shields.io/badge/Seoul_Bus_API-Active-blue"/>
+  <img src="https://img.shields.io/badge/Seoul_Subway_API-Active-yellow"/>
+  <img src="https://img.shields.io/badge/Dareungi_Bike_API-Active-green"/>
+  <img src="https://img.shields.io/badge/Parking_API-Active-teal"/>
+  <img src="https://img.shields.io/badge/ITS_API-Active-pink"/>
+  <img src="https://img.shields.io/badge/KMA_Weather_API-Active-blue"/>
+  <img src="https://img.shields.io/badge/RSS_News-Parser-orange"/>
 </p>
 
 ---
 
-## 🏆 주요 프로젝트
+## 🚀 Featured Project
 
 ### 🧭 교통 정보 통합 플랫폼
 
@@ -81,10 +82,10 @@
 - 🔄 Flask 기반 뉴스 크롤링 자동화
 - 📊 Pandas & Chart.js 기반 데이터 통계 시각화
 
-**🔗 관련 링크**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Hoooouuuuu/trafficRoad)
-[![Notion](https://img.shields.io/badge/Notion-문서-000?logo=notion)](https://your-notion-link.com)
-[![YouTube](https://img.shields.io/badge/YouTube-시연영상-ff0000?logo=youtube)](https://your-youtube-demo-link.com)
+**🔗 링크**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hoooouuuuu/trafficRoad)
+[![Notion](https://img.shields.io/badge/Notion-문서-000000?logo=notion)](https://your-notion-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-시연영상-FF0000?logo=youtube)](https://your-youtube-demo-link.com)
 
 ---
 
@@ -95,28 +96,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=radical" height="150"/>
 </p>
 
----
-
-## 📈 GitHub 활동 그래프
-
-[![HONGHONGPYO's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HONGHONGPYO&theme=github_dark" />
+</p>
 
 ---
 
-## 🐍 GitHub Contribution Graph Snake
+## 📈 활동 그래프 & Snake
 
-![snake gif](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 🎬 프로젝트 소개 & 시연 영상
-
-[![Notion](https://img.shields.io/badge/Notion-Project-black?logo=notion)](https://your-notion-link.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://your-youtube-demo-link.com)
+![Contribution Snake](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
 - 📧 Email: [wjdvy9315@gmail.com](mailto:wjdvy9315@gmail.com)
 
@@ -125,6 +119,6 @@
 </p>
 
 <p align="center">
-  🙇‍♂️ 방문해 주셔서 감사합니다!<br>
+  🙇‍♂️ 방문해 주셔서 감사합니다!  
   ✨ 더 좋은 서비스를 만들기 위해 매일 꾸준히 공부하고 있습니다.
 </p>
