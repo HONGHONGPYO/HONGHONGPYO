@@ -1,6 +1,6 @@
-<!-- 💫 헤더 배너 -->
+<!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=백엔드%20웹%20개발자%20|%20실시간%20교통정보%20서비스%20제작&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
 
 <p align="center">
@@ -30,48 +30,48 @@
 
 ## 🧰 Tech Stack
 
-### 🖥️ Backend
+### ☕ Backend
 <p>
-  <img src="https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-3.0-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.9-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-Web-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-Designed-informational"/>
-  <img src="https://img.shields.io/badge/OAuth-Integrated-orange"/>
+  <img src="https://img.shields.io/badge/Java-17-b47149?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-3.0-a3bf72?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.9-daa25a?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-Web-5c4033?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-Designed-ea907a?style=flat"/>
+  <img src="https://img.shields.io/badge/OAuth-Integrated-cb997e?style=flat"/>
 </p>
 
-### 🌐 Frontend & Visualization
+### 🎨 Frontend & Visualization
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Naver_Maps-API-03C75A?style=flat&logo=naver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kakao_Map-API-FFCD00?style=flat&logo=kakaotalk&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Chart-11557C?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-Graph-3F4F75?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-E07A5F?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-81B29A?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F2CC8F?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Naver_Maps-API-B7B7A4?style=flat"/>
+  <img src="https://img.shields.io/badge/Kakao_Map-API-F4A261?style=flat"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Chart-CDB4DB?style=flat"/>
+  <img src="https://img.shields.io/badge/Plotly-Graph-DDBEA9?style=flat"/>
 </p>
 
 ### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-Connector-F89820?style=flat"/>
-  <img src="https://img.shields.io/badge/PyMySQL-Driver-3776AB?style=flat"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0-9A8C98?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-Connector-BC6C25?style=flat"/>
+  <img src="https://img.shields.io/badge/PyMySQL-Driver-CFC0A7?style=flat"/>
 </p>
 
 ### 🔗 Public Data & API Integration
 <p>
-  <img src="https://img.shields.io/badge/Seoul_Bus_API-Active-blue"/>
-  <img src="https://img.shields.io/badge/Seoul_Subway_API-Active-yellow"/>
-  <img src="https://img.shields.io/badge/Dareungi_Bike_API-Active-green"/>
-  <img src="https://img.shields.io/badge/Parking_API-Active-teal"/>
-  <img src="https://img.shields.io/badge/ITS_API-Active-pink"/>
-  <img src="https://img.shields.io/badge/KMA_Weather_API-Active-blue"/>
-  <img src="https://img.shields.io/badge/RSS_News-Parser-orange"/>
+  <img src="https://img.shields.io/badge/Seoul_Bus_API-Active-D88C9A?style=flat"/>
+  <img src="https://img.shields.io/badge/Seoul_Subway_API-Active-E5989B?style=flat"/>
+  <img src="https://img.shields.io/badge/Dareungi_Bike_API-Active-F6BD60?style=flat"/>
+  <img src="https://img.shields.io/badge/Parking_API-Active-F7A072?style=flat"/>
+  <img src="https://img.shields.io/badge/ITS_API-Active-B5838D?style=flat"/>
+  <img src="https://img.shields.io/badge/KMA_Weather_API-Active-E0A899?style=flat"/>
+  <img src="https://img.shields.io/badge/RSS_News-Parser-DEB887?style=flat"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 주요 프로젝트
 
 ### 🧭 교통 정보 통합 플랫폼
 
@@ -82,43 +82,37 @@
 - 🔄 Flask 기반 뉴스 크롤링 자동화
 - 📊 Pandas & Chart.js 기반 데이터 통계 시각화
 
-**🔗 링크**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/Hoooouuuuu/trafficRoad)
-[![Notion](https://img.shields.io/badge/Notion-문서-000000?logo=notion)](https://your-notion-link.com)
-[![YouTube](https://img.shields.io/badge/YouTube-시연영상-FF0000?logo=youtube)](https://your-youtube-demo-link.com)
+**🔗 관련 링크**  
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-4e342e?logo=github&logoColor=white)](https://github.com/Hoooouuuuu/trafficRoad)
+[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-시연영상-d2691e?logo=youtube&logoColor=white)](https://your-youtube-demo-link.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HONGHONGPYO&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=gruvbox_light" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=gruvbox_light" height="150"/>
 </p>
 
 ---
 
-## 📈 활동 그래프 & Snake
+## 📈 GitHub 활동 그래프
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![Contribution Snake](https://github.com/HONGHONGPYO/HONGHONGPYO/blob/output/github-contribution-grid-snake.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=gruvbox_light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📬 Contact
+## 📫 Contact
 
 - 📧 Email: [wjdvy9315@gmail.com](mailto:wjdvy9315@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HONGHONGPYO&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HONGHONGPYO&style=flat-square&color=ffb4a2" alt="Profile Views" />
 </p>
 
 <p align="center">
-  🙇‍♂️ 방문해 주셔서 감사합니다!  
+  🙇‍♂️ 방문해 주셔서 감사합니다!<br>
   ✨ 더 좋은 서비스를 만들기 위해 매일 꾸준히 공부하고 있습니다.
 </p>
