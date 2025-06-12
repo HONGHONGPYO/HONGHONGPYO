@@ -21,10 +21,10 @@
 
 ## 🎯 Focus & Goals
 
-- 📡 위치 기반 교통 서비스 고도화  
-- 📊 데이터 시각화 및 자동화된 크롤링 시스템  
-- ☁️ Flask + Spring Boot 멀티 백엔드 구조 실험  
-- 💪 실전 프로젝트를 통해 실무 역량 업그레이드  
+- 📡 위치 기반 교통 서비스 고도화
+- 📊 데이터 시각화 및 자동화된 크롤링 시스템
+- ☁️ Flask + Spring Boot 멀티 백엔드 구조 실험
+- 💪 실전 프로젝트를 통해 실무 역량 업그레이드
 
 ---
 
@@ -77,23 +77,15 @@
 
 > 실시간 교통 데이터를 통합하여 시각화하고, 사용자에게 위치 기반 추천 및 경로 안내 기능을 제공하는 웹 플랫폼입니다.
 
-- 🚇 실시간 지하철 위치, 교통 정책 뉴스, 공공 자전거 대여소 등 다양한 교통 데이터 통합  
-- 📍 Naver 지도 API 기반 위치 시각화 및 길찾기 기능  
-- 🔄 Flask 기반 뉴스 크롤링 자동화  
-- 📊 Pandas & Chart.js 기반 데이터 통계 시각화  
+- 🚇 실시간 지하철 위치, 교통 정책 뉴스, 공공 자전거 대여소 등 다양한 교통 데이터 통합
+- 📍 Naver 지도 API 기반 위치 시각화 및 길찾기 기능
+- 🔄 Flask 기반 뉴스 크롤링 자동화
+- 📊 Pandas & Chart.js 기반 데이터 통계 시각화
 
 **🔗 관련 링크**  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-4e342e?logo=github&logoColor=white)](https://github.com/Hoooouuuuu/trafficRoad)  
-[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-시연영상-d2691e?logo=youtube&logoColor=white)](https://your-youtube-demo-link.com)  
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HONGHONGPYO&theme=gruvbox_light&margin-w=10&margin-h=10"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-4e342e?logo=github&logoColor=white)](https://github.com/Hoooouuuuu/trafficRoad)
+[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-시연영상-d2691e?logo=youtube&logoColor=white)](https://your-youtube-demo-link.com)
 
 ---
 
@@ -102,14 +94,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=gruvbox_light" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=gruvbox_light" height="150"/>
-</p>
-
----
-
-## 📋 Summary Card
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HONGHONGPYO&theme=vue"/>
 </p>
 
 ---
@@ -129,6 +113,6 @@
 </p>
 
 <p align="center">
-  🙇‍♂️ 방문해 주셔서 감사합니다!  
+  🙇‍♂️ 방문해 주셔서 감사합니다!<br>
   ✨ 더 좋은 서비스를 만들기 위해 매일 꾸준히 공부하고 있습니다.
 </p>
