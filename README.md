@@ -28,58 +28,38 @@
 
 ---
 
-## ✨ Tech Stack ✨
+## ✨ Tech Stack & Tools
 
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Chart.js-EF5C99?style=flat&logo=chartdotjs&logoColor=white"/>
-  <br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-3.0-339933?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clip%20Studio-CCCCCC?style=flat"/>
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STS-6DB33F?style=flat"/>
-</p>
-
----
-
-## 🧰 Tech Stack (Detail)
-
-### ☕ Backend
-<p>
-  <img src="https://img.shields.io/badge/Java-17-b47149?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-3.0-a3bf72?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.9-daa25a?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-Web-5c4033?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-Designed-ea907a?style=flat"/>
-  <img src="https://img.shields.io/badge/OAuth-Integrated-cb997e?style=flat"/>
 </p>
 
 ### 🎨 Frontend & Visualization
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E07A5F?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-81B29A?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F2CC8F?style=flat&logo=javascript&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Naver_Maps-API-B7B7A4?style=flat"/>
-  <img src="https://img.shields.io/badge/Kakao_Map-API-F4A261?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Chart.js-EF5C99?style=flat&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Chart-CDB4DB?style=flat"/>
   <img src="https://img.shields.io/badge/Plotly-Graph-DDBEA9?style=flat"/>
+</p>
+
+### 📡 Public APIs & Services
+<p>
+  <img src="https://img.shields.io/badge/Naver_Maps-API-B7B7A4?style=flat"/>
+  <img src="https://img.shields.io/badge/Kakao_Map-API-F4A261?style=flat"/>
+  <img src="https://img.shields.io/badge/Seoul_Bus_API-Active-D88C9A?style=flat"/>
+  <img src="https://img.shields.io/badge/Seoul_Subway_API-Active-E5989B?style=flat"/>
+  <img src="https://img.shields.io/badge/Dareungi_Bike_API-Active-F6BD60?style=flat"/>
+  <img src="https://img.shields.io/badge/Parking_API-Active-F7A072?style=flat"/>
+  <img src="https://img.shields.io/badge/ITS_API-Active-B5838D?style=flat"/>
+  <img src="https://img.shields.io/badge/KMA_Weather_API-Active-E0A899?style=flat"/>
+  <img src="https://img.shields.io/badge/RSS_News-Parser-DEB887?style=flat"/>
 </p>
 
 ### 🗄️ Database
@@ -89,16 +69,17 @@
   <img src="https://img.shields.io/badge/PyMySQL-Driver-CFC0A7?style=flat"/>
 </p>
 
-### 🔗 Public Data & API Integration
+### 🖌️ Design Tools
 <p>
-  <img src="https://img.shields.io/badge/Seoul_Bus_API-Active-D88C9A?style=flat"/>
-  <img src="https://img.shields.io/badge/Seoul_Subway_API-Active-E5989B?style=flat"/>
-  <img src="https://img.shields.io/badge/Dareungi_Bike_API-Active-F6BD60?style=flat"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Parking_API-Active-F7A072?style=flat"/>
-  <img src="https://img.shields.io/badge/ITS_API-Active-B5838D?style=flat"/>
-  <img src="https://img.shields.io/badge/KMA_Weather_API-Active-E0A899?style=flat"/>
-  <img src="https://img.shields.io/badge/RSS_News-Parser-DEB887?style=flat"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clip%20Studio-CCCCCC?style=flat"/>
+</p>
+
+### 🛠 Development Environment
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STS-6DB33F?style=flat"/>
 </p>
 
 ---
