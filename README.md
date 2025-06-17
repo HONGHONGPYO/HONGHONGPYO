@@ -69,11 +69,6 @@
   <img src="https://img.shields.io/badge/PyMySQL-Driver-CFC0A7?style=flat"/>
 </p>
 
-### 🖌️ Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-001E36?style=flat&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clip%20Studio-CCCCCC?style=flat"/>
-</p>
 
 ### 🛠 Development Environment
 <p>
