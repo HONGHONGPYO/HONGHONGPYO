@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Backend Dev • Real-Time Transit System • Data Visualizer
+  백엔드 개발자 • 실시간 교통 시스템 구축 • 데이터 시각화 구현
 </p>
 
 ---
