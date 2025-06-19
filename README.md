@@ -1,8 +1,6 @@
-<!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=260&section=header&text=데이터%20기반%20웹%20서비스를%20설계합니다.&fontSize=35&fontAlignY=35&desc=Java%20%26%20Spring%20Boot로%20서버를%20구축하고,%20Python%20%26%20Flask로%20데이터를%20처리합니다.%20지도%20API와%20Chart.js로%20시각화합니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=260&section=header&text=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4.&fontSize=35&fontAlignY=35&desc=Java%20%26%20Spring%20Boot%EB%A1%9C%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B3%A0,%20Python%20%26%20Flask%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A7%80%EB%8F%84%20API%EC%99%80%20Chart.js%EB%A1%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
-
 
 <p align="center">
   백엔드 개발자 • 실시간 교통 시스템 구축 • 데이터 시각화 구현
