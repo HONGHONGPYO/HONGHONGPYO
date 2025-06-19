@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=260&section=header&text=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%84%A4%EA%B3%84%ED%95%A9%EB%8B%88%EB%8B%A4.&fontSize=35&fontAlignY=35&desc=Java%20%26%20Spring%20Boot%EB%A1%9C%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B3%A0,%20Python%20%26%20Flask%EB%A1%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%A9%EB%8B%88%EB%8B%A4.%20%EC%A7%80%EB%8F%84%20API%EC%99%80%20Chart.js%EB%A1%9C%20%EC%8B%9C%EA%B0%81%ED%99%94%ED%95%A9%EB%8B%88%EB%8B%A4.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
-</p>
+<h2 align="center">Java와 Spring Boot로 구조화된 서버를 만들고,</h2>
+<h2 align="center">Python과 Flask로 데이터를 수집·처리하며,</h2>
+<h2 align="center">지도 API와 Chart.js로 실시간 상황을 시각화합니다.</h2>
+<h3 align="center">공공 데이터, 크롤링, 위치 기반 기술을 하나로 엮어 데이터 기반 웹 서비스를 설계합니다.</h3>
+
 
 <p align="center">
   백엔드 개발자 • 실시간 교통 시스템 구축 • 데이터 시각화 구현
