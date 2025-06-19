@@ -1,6 +1,6 @@
 <!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=실시간%20교통정보%20서비스를%20만드는%20백엔드%20개발자입니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=데이터%20기반%20웹%20서비스를%20개발하며%2C%20사용자%20중심의%20기능을%20구현해왔습니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
 
 <p align="center">
