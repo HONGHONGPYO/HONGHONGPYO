@@ -1,6 +1,6 @@
 <!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=데이터%20기반%20웹%20서비스를%20개발하며%2C%20사용자%20중심의%20기능을%20구현해왔습니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=실시간%20데이터로%20사용자를%20연결하는%20웹%20서비스를%20만들어갑니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
 
 <p align="center">
@@ -11,20 +11,19 @@
 
 ## About Me
 
-- 실용적인 웹 서비스를 만드는 데 관심이 많습니다.
-- 실시간 교통·지하철 데이터를 활용한 시스템 개발 경험이 있습니다.
-- Spring Boot와 Flask를 사용해 실제 프로젝트에 백엔드 구현을 해봤습니다.
-- 공공데이터를 크롤링하고 자동화하여 시각화하는 작업을 좋아합니다.
-- 사람들에게 도움이 되는 서비스를 만드는 것이 저의 목표입니다.
+웹 서비스를 실용적으로 만들고자 하는 개발자입니다.  
+특히, 실시간 교통/지하철 데이터를 활용한 시스템과 자동화된 공공데이터 시각화에 관심이 많습니다.  
+Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,  
+사람들에게 실제로 도움이 되는 서비스 구현을 목표로 노력하고 있습니다.
 
 ---
 
 ## Focus & Goals
 
-- 위치 기반 교통 서비스 고도화  
-- 크롤링 & 데이터 시각화 자동화  
-- Flask + Spring Boot 멀티 백엔드 실험  
-- 실전 프로젝트를 통한 실무 역량 강화  
+- 위치 기반 교통 서비스의 정확도 및 사용자 경험 고도화  
+- 크롤링 자동화 및 데이터 시각화 워크플로우 구축  
+- Flask와 Spring Boot를 병행한 멀티 백엔드 아키텍처 실험  
+- 실전 프로젝트를 통한 협업 및 실무 감각 향상
 
 ---
 
@@ -91,7 +90,7 @@
 
 **링크**  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-4e342e?logo=github&logoColor=white)](https://github.com/Hoooouuuuu/trafficRoad)  
-[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com)  
+[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com) <!-- 👉 실제 링크 또는 "준비 중" 표시 -->
 [![YouTube](https://img.shields.io/badge/YouTube-시연영상-d2691e?logo=youtube&logoColor=white)](https://your-youtube-demo-link.com)
 
 ---
@@ -99,15 +98,15 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=gruvbox_light" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=gruvbox_light" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
 
 ## GitHub 활동 그래프
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=gruvbox_light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=rose_pine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
