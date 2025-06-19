@@ -1,8 +1,7 @@
 <!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=HONG%20JUNG%20PYO!&fontSize=40&fontAlignY=40&desc=데이터%20기반%20웹%20서비스를%20개발하며%2C%20사용자%20중심의%20기능을%20구현해왔습니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=따뜻한%20기술로%20사람을%20연결합니다.&fontSize=40&fontAlignY=40&desc=실시간%20데이터로%20사람들의%20일상을%20편리하게%20만듭니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
-
 
 <p align="center">
   백엔드 개발자 • 실시간 교통 시스템 구축 • 데이터 시각화 구현
@@ -10,7 +9,7 @@
 
 ---
 
-## About Me
+## 소개
 
 웹 서비스를 실용적으로 만들고자 하는 개발자입니다.  
 특히, 실시간 교통/지하철 데이터를 활용한 시스템과 자동화된 공공데이터 시각화에 관심이 많습니다.  
@@ -19,7 +18,7 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
 
 ---
 
-## Focus & Goals
+## 관심 분야 및 목표
 
 - 위치 기반 교통 서비스의 정확도 및 사용자 경험 고도화  
 - 크롤링 자동화 및 데이터 시각화 워크플로우 구축  
@@ -28,9 +27,9 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
 
 ---
 
-## Tech Stack & Tools
+## 사용 기술
 
-### Languages & Frameworks
+### 언어 & 프레임워크
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -39,7 +38,7 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
 </p>
 
-### Frontend & Visualization
+### 프론트엔드 & 시각화
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
@@ -49,7 +48,7 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
   <img src="https://img.shields.io/badge/Plotly-Graph-DDBEA9?style=flat"/>
 </p>
 
-### Public APIs & Services
+### 공공 API & 외부 서비스
 <p>
   <img src="https://img.shields.io/badge/Naver_Maps-API-B7B7A4?style=flat"/>
   <img src="https://img.shields.io/badge/Kakao_Map-API-F4A261?style=flat"/>
@@ -62,14 +61,14 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
   <img src="https://img.shields.io/badge/RSS_News-Parser-DEB887?style=flat"/>
 </p>
 
-### Database
+### 데이터베이스
 <p>
   <img src="https://img.shields.io/badge/MySQL-8.0-9A8C98?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JDBC-Connector-BC6C25?style=flat"/>
   <img src="https://img.shields.io/badge/PyMySQL-Driver-CFC0A7?style=flat"/>
 </p>
 
-### Development Environment
+### 개발 환경
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
@@ -91,12 +90,12 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
 
 **링크**  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-4e342e?logo=github&logoColor=white)](https://github.com/Hoooouuuuu/trafficRoad)  
-[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com) <!-- 👉 실제 링크 또는 "준비 중" 표시 -->
+[![Notion](https://img.shields.io/badge/Notion-문서-8d6e63?logo=notion&logoColor=white)](https://your-notion-link.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-시연영상-d2691e?logo=youtube&logoColor=white)](https://your-youtube-demo-link.com)
 
 ---
 
-## GitHub Stats
+## GitHub 통계
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=rose_pine" height="150"/>
@@ -105,13 +104,13 @@ Spring Boot와 Flask를 기반으로 한 백엔드 개발 경험이 있으며,
 
 ---
 
-## GitHub 활동 그래프
+## GitHub 활동
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=rose_pine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## Contact
+## 연락처
 
 - Email: [wjdvy9315@gmail.com](mailto:wjdvy9315@gmail.com)
 
