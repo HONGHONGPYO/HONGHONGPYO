@@ -1,7 +1,8 @@
 <!-- 💫 헤더 배너: 따뜻한 톤 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=240&section=header&text=따뜻한%20기술로%20사람을%20연결합니다.&fontSize=40&fontAlignY=40&desc=실시간%20데이터로%20사람들의%20일상을%20편리하게%20만듭니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb4a2,ffdac1,ffe5d9&height=260&section=header&text=데이터%20기반%20웹%20서비스를%20설계합니다.&fontSize=35&fontAlignY=35&desc=Java%20%26%20Spring%20Boot로%20서버를%20구축하고,%20Python%20%26%20Flask로%20데이터를%20처리합니다.%20지도%20API와%20Chart.js로%20시각화합니다.&descAlignY=65&animation=fadeIn&fontColor=fff4e6&descColor=ffdcc4" />
 </p>
+
 
 <p align="center">
   백엔드 개발자 • 실시간 교통 시스템 구축 • 데이터 시각화 구현
