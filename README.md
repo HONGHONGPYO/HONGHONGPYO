@@ -99,14 +99,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HONGHONGPYO&show_icons=true&theme=rose_pine" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HONGHONGPYO&layout=compact&theme=rose_pine" height="150"/>
 </p>
-
----
-
-## GitHub 활동
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HONGHONGPYO&theme=rose_pine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
